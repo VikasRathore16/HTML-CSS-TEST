@@ -1,0 +1,37 @@
+#bt1{
+    background-color:#FE9F0B;
+    margin-right: 0;
+}
+.calinp{
+    margin: 0px;
+    padding:10px;
+    background-color: #2D2D36;
+    width: 39%;
+}
+
+.row1{
+        display: flex;
+        flex-wrap: nowrap;
+        background-color: #2D2D36;  
+        width: 40%;
+}
+#bt2{
+    background-color: #424249;
+    color: #DFDFE0;
+  width: 280px;
+  margin-right: 2px;
+  margin-top: 2px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.row1 > div{
+    background-color: #424249;
+    color: #DFDFE0;
+  width: 140px;
+  margin-right: 2px;
+  margin-top: 2PX;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
