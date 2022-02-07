@@ -1,10 +1,9 @@
 .wrapper {
-  border-radius: 20%;
   width: 60%;
+  
 }
 .min_max {
   display: flex;
-  flex-wrap: nowrap;
   background-color: #2d2d36;
   width: 40%;
 }
@@ -25,6 +24,7 @@
 #bt1 {
   background-color: #fe9f0b;
   margin-right: 0;
+  margin-left: 2px;
 }
 .num {
   border-bottom-left-radius: 10px;
@@ -70,3 +70,5 @@
   line-height: 75px;
   font-size: 30px;
 }
+
+
