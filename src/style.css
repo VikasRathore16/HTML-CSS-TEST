@@ -11,11 +11,13 @@
     text-align: right;
     color: white;
     font-size: 30px;
+    margin-right: 10px;
 }
 .c1{
     background-color: #818186;
   padding: 10px;
   margin-right: 5px;
+  margin-left: 10px;
   width: 1%;
   border-radius: 50%;
 }
@@ -30,9 +32,10 @@
 }
 .calinp{
     margin: 0px;
-    padding:10px;
+    padding-top:10px;
+    padding-bottom: 10px;
     background-color: #2D2D36;
-    width: 39%;
+    width: 40%;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
