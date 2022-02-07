@@ -1,3 +1,6 @@
+.wrapper{
+    border-radius: 20%;
+}
 .min_max{
     display: flex;
     flex-wrap: nowrap;
@@ -12,7 +15,7 @@
 .c1{
     background-color: #818186;
   padding: 10px;
-  margin-right: 2px;
+  margin-right: 5px;
   width: 1%;
   border-radius: 50%;
 }
@@ -20,11 +23,24 @@
     background-color:#FE9F0B;
     margin-right: 0;
 }
+.num{
+    border-bottom-left-radius: 10px;
+    
+
+}
 .calinp{
     margin: 0px;
     padding:10px;
     background-color: #2D2D36;
     width: 39%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#bt2{
+    border-bottom-left-radius: 10px;
+}
+.rnd{
+    border-bottom-right-radius: 10px;
 }
 
 .row1{
