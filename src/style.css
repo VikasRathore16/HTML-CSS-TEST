@@ -1,3 +1,21 @@
+.min_max{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #2D2D36;  
+    width: 40%;
+}
+.inp{
+    text-align: right;
+    color: white;
+    font-size: 30px;
+}
+.c1{
+    background-color: #818186;
+  padding: 10px;
+  margin-right: 2px;
+  width: 1%;
+  border-radius: 50%;
+}
 #bt1{
     background-color:#FE9F0B;
     margin-right: 0;
